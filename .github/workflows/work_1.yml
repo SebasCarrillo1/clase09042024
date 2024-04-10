@@ -1,5 +1,5 @@
 name: Work 1 Dorx
-on: push
+on: 
   push:
     branches:
       - test_1
